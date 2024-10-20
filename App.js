@@ -1,6 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-
 import RootNavigation from './src/navigations/RootNavigation';
 
 export default function App() {
@@ -9,4 +6,3 @@ export default function App() {
   );
 }
 
-const styles = StyleSheet.create({});
